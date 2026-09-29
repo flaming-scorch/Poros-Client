@@ -1,17 +1,17 @@
 # Poros Mobile Client
 
-A React Native and Expo application that helps students organize job searches, manage resumes, track applications, and prepare for target companies.
+The mobile frontend for Poros, a student career-management application built with React Native, Expo, and TypeScript. It brings resume management, application tracking, and company preparation into a single interface backed by a REST API.
 
 ## Jojo Osei-Kofi's contributions
 
-I estimate that I contributed approximately 55% of the overall project work, including work completed through a teammate's repository. This is my estimate of effort, not a percentage derived from GitHub commit counts.
+My work focused on mobile application development, API integration, and usability research.
 
-- Built React Native and TypeScript authentication flows for account registration and sign-in.
-- Implemented resume upload and listing workflows.
-- Developed the job-tracker interface for organizing companies and application stages.
-- Integrated frontend workflows with the PostgreSQL-backed data service.
-- Supported cross-platform testing through Expo.
-- Led structured usability sessions with 10 participants, synthesized findings, and documented workflow improvements.
+- **Authentication:** Built account registration and sign-in flows with React Native and TypeScript.
+- **Resume management:** Implemented resume upload and listing workflows.
+- **Application tracking:** Developed the job-tracker interface for organizing companies and application stages.
+- **API integration:** Connected mobile workflows to the PostgreSQL-backed data service.
+- **Cross-platform testing:** Supported application testing through Expo.
+- **Usability research:** Led structured sessions with 10 participants, synthesized feedback, and documented workflow improvements.
 
 ## Implemented features
 
@@ -65,10 +65,6 @@ Scan the Expo QR code or launch an iOS/Android simulator.
 - [Online help](Documentation/ONLINE_HELP_CONTENT.md)
 - [Project overview and usability research](https://github.com/flaming-scorch/Poros-Project)
 
-## Academic context
-
-Poros was built by a five-person Calvin University CS 262 team. The project overview contains team attribution and Jojo Osei-Kofi's documented contributions.
-
 ## Team
 
 Poros was created for Calvin University's CS 262 Software Engineering course by:
@@ -79,10 +75,8 @@ Poros was created for Calvin University's CS 262 Software Engineering course by:
 - [Ruhama Getahun](https://github.com/RuhamaGetahun)
 - [Youssef Dalil](https://github.com/YoussefDalil24)
 
-The repository preserves team attribution because Poros was collaborative work.
+## Project history
 
-## Provenance
-
-This portfolio copy imports the cleaned snapshot from [the original team repository](https://github.com/Jojo-Osei-Kofi/Poros-Client/tree/0e944732c705219458e5a317e29e877dd343e65b). Original development history remains there. Import commits here do not represent sole authorship. Portfolio cleanup and migration were assisted by Codex.
+Developed for Calvin University's CS 262 Software Engineering course. The [original team repository](https://github.com/Jojo-Osei-Kofi/Poros-Client/tree/0e944732c705219458e5a317e29e877dd343e65b) retains the development history; this repository presents the portfolio edition.
 
 See [validation results and remaining limitations](VALIDATION.md) before running a demo.
